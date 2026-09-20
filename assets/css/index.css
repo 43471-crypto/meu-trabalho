@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #ab5353;
+}
+section{
+    width: 25%;
+    height: 25vh;
+    background: #ab5353;
+    float: left;
+    margin-left: 37.5%;
+    margin-top: 37.5vh;
+}
+p{
+    font-size: 30px;
+}
+.conteudo{
+    display: flex;
+    gap: 30px;
+}
+.conteudo{
+    display: flex;
+}
+.conteudo img{
+    width: 200px;
+}
+img{
+    float: left;
+    width: 400px;
+}
